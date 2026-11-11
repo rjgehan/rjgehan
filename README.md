@@ -5,7 +5,3 @@ Backend software engineer. At work I build event-driven Java and Spring Boot sys
 ## Stack
 
 Java · Spring Boot · Kafka · PostgreSQL · Redis · Python · TypeScript · React · Docker · AWS · GitHub Actions
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/ryan-gehan) · rgehan27@outlook.com
